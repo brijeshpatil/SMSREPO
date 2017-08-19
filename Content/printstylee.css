@@ -1,0 +1,66 @@
+﻿.schoolbanner {
+    border-bottom: 1px solid black;
+    height: 45px;
+}
+
+.img-thumbnail {
+    height: 44px;
+    width: 300px;
+}
+
+.img-thumbnail_1 {
+    height: 80px;
+    width: 75px;
+}
+.id_addresss {
+    padding-left: 3px;
+}
+
+#single_id {
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+#h1111 {
+    background-color: white;
+    color: red;
+    border: 1px solid #00ff21;
+    width: 300px;
+    height: 175px;
+    float: left;
+    border-radius: 3px;
+    margin-right: 25px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+#schoolbanner {
+    width: 298px;
+    float: left;
+}
+
+#idbody {
+    border-bottom: 1px solid black;
+    height: 90px;
+}
+
+#id_stu_img {
+    width: 80px;
+    float: left;
+    padding-left: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 0px;
+}
+
+#id_body_val {
+    width: 210px;
+    float: right;
+    padding-top: 5px;
+}
+
+#idadd {
+    height: 40px;
+}

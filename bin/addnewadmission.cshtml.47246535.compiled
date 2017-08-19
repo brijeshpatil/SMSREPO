@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/AdmissionInquiry/AddNewAdmission.cshtml" hash="ffffffffcf6b0aaf" filehash="315093166f37" flags="110000" assembly="App_Web_addnewadmission.cshtml.47246535" type="ASP._Page_Views_AdmissionInquiry_AddNewAdmission_cshtml">
+    <filedeps>
+        <filedep name="/Views/AdmissionInquiry/AddNewAdmission.cshtml" />
+    </filedeps>
+</preserve>

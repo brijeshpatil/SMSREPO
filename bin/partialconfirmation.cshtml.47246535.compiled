@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/AdmissionInquiry/PartialConfirmation.cshtml" hash="ffffffffcf6b0aaf" filehash="ffffec26e406015f" flags="110000" assembly="App_Web_partialconfirmation.cshtml.47246535" type="ASP._Page_Views_AdmissionInquiry_PartialConfirmation_cshtml">
+    <filedeps>
+        <filedep name="/Views/AdmissionInquiry/PartialConfirmation.cshtml" />
+    </filedeps>
+</preserve>

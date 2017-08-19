@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Group/EditGroupDetails.cshtml" hash="ffffffffcf6b0aaf" filehash="365e61089cd4" flags="110000" assembly="App_Web_editgroupdetails.cshtml.1dacda6f" type="ASP._Page_Views_Group_EditGroupDetails_cshtml">
+    <filedeps>
+        <filedep name="/Views/Group/EditGroupDetails.cshtml" />
+    </filedeps>
+</preserve>

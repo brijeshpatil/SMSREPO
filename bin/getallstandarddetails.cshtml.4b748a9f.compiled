@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Standard/GetAllStandardDetails.cshtml" hash="ffffffffcf6b0aaf" filehash="ffffffdc5195d453" flags="110000" assembly="App_Web_getallstandarddetails.cshtml.4b748a9f" type="ASP._Page_Views_Standard_GetAllStandardDetails_cshtml">
+    <filedeps>
+        <filedep name="/Views/Standard/GetAllStandardDetails.cshtml" />
+    </filedeps>
+</preserve>

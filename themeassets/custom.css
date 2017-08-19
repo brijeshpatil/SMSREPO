@@ -1,0 +1,48 @@
+﻿
+.buttonc{
+    background: #2D353C !important;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none !important;
+    color: #d8d8d8;
+    border-right: 1px solid #999;
+    padding-bottom: 18px;
+    padding-top: 18px;
+}
+
+.buttonl {
+    background: #2D353C !important;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none !important;
+    color: #d8d8d8;
+    padding-bottom: 18px;
+    padding-top: 18px;
+}
+
+.buttonc:hover {
+    background: #00acac !important;
+    color: #fff;
+}
+
+.buttonl:hover {
+    background: #00acac !important;
+    color: #fff;
+}
+
+.gritter-item {
+    display: none;
+}
+
+.navbar.navbar-default {
+    padding-top: 4px;
+}
+
+.navbar-fixed-top {
+    top: -4px !important;
+}
+
+
+

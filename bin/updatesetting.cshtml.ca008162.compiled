@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Setting/UpdateSetting.cshtml" hash="ffffffffcf6b0aaf" filehash="2251c7de84e" flags="110000" assembly="App_Web_updatesetting.cshtml.ca008162" type="ASP._Page_Views_Setting_UpdateSetting_cshtml">
+    <filedeps>
+        <filedep name="/Views/Setting/UpdateSetting.cshtml" />
+    </filedeps>
+</preserve>

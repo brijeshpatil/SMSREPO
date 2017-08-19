@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/AdmissionInquiry/GetAdmissionList.cshtml" hash="ffffffffcf6b0aaf" filehash="ffffc66c74573759" flags="110000" assembly="App_Web_getadmissionlist.cshtml.47246535" type="ASP._Page_Views_AdmissionInquiry_GetAdmissionList_cshtml">
+    <filedeps>
+        <filedep name="/Views/AdmissionInquiry/GetAdmissionList.cshtml" />
+    </filedeps>
+</preserve>

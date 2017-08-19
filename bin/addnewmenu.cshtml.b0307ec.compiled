@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/MenuManage/AddNewMenu.cshtml" hash="ffffffffcf6b0aaf" filehash="40be4225281" flags="110000" assembly="App_Web_addnewmenu.cshtml.b0307ec" type="ASP._Page_Views_MenuManage_AddNewMenu_cshtml">
+    <filedeps>
+        <filedep name="/Views/MenuManage/AddNewMenu.cshtml" />
+    </filedeps>
+</preserve>

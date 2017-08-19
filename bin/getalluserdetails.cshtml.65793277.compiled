@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/User/GetAllUserDetails.cshtml" hash="ffffffffcf6b0aaf" filehash="159de35a9417" flags="110000" assembly="App_Web_getalluserdetails.cshtml.65793277" type="ASP._Page_Views_User_GetAllUserDetails_cshtml">
+    <filedeps>
+        <filedep name="/Views/User/GetAllUserDetails.cshtml" />
+    </filedeps>
+</preserve>

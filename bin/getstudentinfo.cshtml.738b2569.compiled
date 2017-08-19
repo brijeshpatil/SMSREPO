@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/StudentMaster/GetStudentInfo.cshtml" hash="ffffffffcf6b0aaf" filehash="ffffe900fbd84d5c" flags="110000" assembly="App_Web_getstudentinfo.cshtml.738b2569" type="ASP._Page_Views_StudentMaster_GetStudentInfo_cshtml">
+    <filedeps>
+        <filedep name="/Views/StudentMaster/GetStudentInfo.cshtml" />
+    </filedeps>
+</preserve>

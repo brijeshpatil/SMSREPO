@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/MenuManage/MenuList.cshtml" hash="ffffffffcf6b0aaf" filehash="3956628aea07" flags="110000" assembly="App_Web_menulist.cshtml.b0307ec" type="ASP._Page_Views_MenuManage_MenuList_cshtml">
+    <filedeps>
+        <filedep name="/Views/MenuManage/MenuList.cshtml" />
+    </filedeps>
+</preserve>

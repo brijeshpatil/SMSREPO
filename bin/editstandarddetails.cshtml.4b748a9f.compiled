@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Standard/EditStandardDetails.cshtml" hash="ffffffffcf6b0aaf" filehash="fffff784c3cbae0e" flags="110000" assembly="App_Web_editstandarddetails.cshtml.4b748a9f" type="ASP._Page_Views_Standard_EditStandardDetails_cshtml">
+    <filedeps>
+        <filedep name="/Views/Standard/EditStandardDetails.cshtml" />
+    </filedeps>
+</preserve>
